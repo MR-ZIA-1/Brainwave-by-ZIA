@@ -5,7 +5,7 @@ import Benefits from './components/Benefits';
 import Collaboration from './components/Collaboration';
 import Services from './components/Services';
 import Pricing from './components/Pricing';
-import RoadMap from './components/RoadMap';
+import Roadmap from './components/Roadmap';
 import Footer from './components/Footer';
 
 
